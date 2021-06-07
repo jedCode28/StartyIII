@@ -6,7 +6,7 @@
 2. cd <app_name>
 
 ## rails steps 
-## NOTE this uses 2.7.2, do you have it?**
+## NOTE this is only if you don't use 2.7.2, JED does have that version, so you good.**
 **rm need to be done in root level of rails project**
 - remove the .ruby-version file `rm -r .ruby-version`
 - remove the .Gemfile.lock `rm -r Gemfile.lock`
