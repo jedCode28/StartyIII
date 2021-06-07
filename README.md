@@ -8,10 +8,10 @@
 ## rails steps 
 ## NOTE this uses 2.7.2, do you have it?**
 **rm need to be done in root level of rails project**
-a.remove the .ruby-version file `rm -r .ruby-version`
-b.remove the .Gemfile.lock `rm -r Gemfile.lock`
-c.in ~4 of Gemfile, delete this line: `ruby '2.7.2'`
-d. proceed with steps below
+- remove the .ruby-version file `rm -r .ruby-version`
+- remove the .Gemfile.lock `rm -r Gemfile.lock`
+- in ~4 of Gemfile, delete this line: `ruby '2.7.2'`
+- proceed with steps below
 
 
 1. bundle 
